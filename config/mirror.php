@@ -2,6 +2,6 @@
 
 return [
 	'greetings' => [
-		'You look especially amazing today.',
+		'Live, Laugh, Love.',
 	]
 ];
