@@ -22,7 +22,7 @@
 
 
 body {
-  padding: 45px 0;
+  padding: 35px 0;
   font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
@@ -52,7 +52,7 @@ i {
 }
 
 #weather div {
-  height: 20px;
+  height: 0px;
   margin-right: 30px; 
   font-family: 'Open Sans', sans-serif;
   font-size: 1.5em;
